@@ -1,0 +1,3 @@
+D:\2М інформатика\Лабораторні\lab56\lab56\x64\Debug\lab56.vcxproj.AssemblyReference.cache
+D:\2М інформатика\Лабораторні\lab56\lab56\x64\Debug\lab56.MyForm.resources
+D:\2М інформатика\Лабораторні\lab56\lab56\x64\Debug\lab56.vcxproj.GenerateResource.cache
